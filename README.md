@@ -21,7 +21,7 @@ Contate-me em: [![linkedin](https://img.shields.io/static/v1?label=&message=Link
 ## Knowledge
 
 ### Languages<br />
-[![JavaScript](https://img.shields.io/badge/JavaScript-0e8f46?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/ViniciusNBatista/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/ViniciusNBatista/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/ViniciusNBatista)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/ViniciusNBatista/)
 

@@ -15,7 +15,7 @@
   
   
   
-Contate-me em: [![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat&logo=linkedin)](https://www.linkedin.com/in/ana-clara-batista-09942a191/)
+Contate-me em: [![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat&logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-vinicius-batista/)
 <br /> 
 
 ## Knowledge
